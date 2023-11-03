@@ -5,3 +5,5 @@ function component(text) {
 }
 
 document.body.prepend(component("Webpack is begining"));
+
+console.log("Hello");
