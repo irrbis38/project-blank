@@ -4,4 +4,4 @@ function component(text) {
   return el;
 }
 
-document.body.append(component("Webpack is begining"));
+document.body.prepend(component("Webpack is begining"));
